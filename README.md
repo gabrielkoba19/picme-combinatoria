@@ -20,8 +20,7 @@ O documento apresenta conceitos, teoremas e a resolução comentada de exercíci
 * **Coorientador:** Prof. Dr. Giuliano Angelo Zugliani
 
 ## Arquivos
-* `Relatorio_Combinatoria.pdf`: Versão final compilada do relatório.
-* `/src`: Código-fonte em LaTeX.
+* `Relatório_Semestral_PICME_Noções_Básicas_de_Combinatória_2`: Versão final compilada do relatório.
 
 ---
 **Autor:** Gabriel Koba Pereira (UNICAMP)
