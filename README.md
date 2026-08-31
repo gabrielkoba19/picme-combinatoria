@@ -1,6 +1,6 @@
 # Noções Básicas de Combinatória — Relatório PICME/UNICAMP
 
-Este repositório contém o relatório semestral desenvolvido no âmbito do **PICME (Programa de Iniciação Científica e Mestrado)** na Universidade Estadual de Campinas (UNICAMP).
+Este repositório contém o relatório semestral desenvolvido no âmbito do **PICME (Programa de Iniciação Científica e Mestrado)** na Universidade Estadual de Campinas (UNICAMP) durante o segundo semestre de 2024 e o primeiro semestre de 2025.
 
 ## Sobre o Trabalho
 O documento apresenta conceitos, teoremas e a resolução comentada de exercícios selecionados do livro *Introdução à Análise Combinatória* (José Plínio O. Santos, Margarida P. Mello e Idani T. C. Murari).
